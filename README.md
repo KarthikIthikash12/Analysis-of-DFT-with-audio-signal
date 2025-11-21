@@ -85,12 +85,19 @@ plt.show()
 
 ```
 
-# OUTPUT: 
-<img width="1005" height="393" alt="image" src="https://github.com/user-attachments/assets/f4800b1e-181b-48e4-b39f-03f7c478b9f9" />
-<img width="1012" height="393" alt="image" src="https://github.com/user-attachments/assets/e4ad2aad-cfbf-4b2e-a11c-b2cca863dc6e" /> 
-<img width="425" height="270" alt="{35A3191A-E7B4-495F-9C22-18BC6250CE53}" src="https://github.com/user-attachments/assets/32b7b7c0-ce56-4d5f-ad55-f6e284fe3ce7" />
+# AUDIO USED:
+[DTSP_sample_audio.wav](https://github.com/user-attachments/files/23676704/DTSP_sample_audio.wav)
 
-<img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/71bffbdb-8568-41cd-8f6e-a28bf4e83be2" />
+
+# OUTPUT: 
+<img width="988" height="393" alt="image" src="https://github.com/user-attachments/assets/7c79da2c-34c6-4af0-8262-3613aa0a56fb" /> 
+<img width="1012" height="393" alt="image" src="https://github.com/user-attachments/assets/182db797-b378-4793-8536-3eb105bea2ab" /> 
+<img width="427" height="271" alt="{F65DA7B9-F276-4F9F-8C1B-821CCE0D0010}" src="https://github.com/user-attachments/assets/2a777a3b-5818-437e-8025-06e3840032c6" /> 
+<img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/10346a68-fe3e-4991-b523-dd6fff7534b9" />
+
+
+
+
 
 
 
